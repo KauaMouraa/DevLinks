@@ -1,0 +1,4 @@
+Alinhamento absotulo: usar o transform: translateX ou Y, iae usa o eixo, como top e buttom.
+Display block: Margin Auto
+Display flex: Align-itens e Justify-content: Center
+Texto: text aligh: center
