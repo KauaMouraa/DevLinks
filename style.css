@@ -40,7 +40,7 @@ body * {
 /* Projeto */
 
 #container {
-  padding: 0 24px;
+  padding: 0;
   width: 100%;
   max-width: 588px;
   margin: 56px auto 0px;
@@ -111,7 +111,7 @@ ul {
   display: flex;
   flex-direction: column;
   gap: 16px;
-  padding: 24px 0;
+  padding: 24px 2px;
 }
 
 ul li a{
